@@ -26,7 +26,7 @@
         box-shadow: 0 1px 10px rgba(41,51,57,.8);
         padding: 0 6px;
         width: 80%;
-        margin: 2px 22px 2px 0;
+        margin: 2px 6px 2px 0;
         border: none;
     }
 
