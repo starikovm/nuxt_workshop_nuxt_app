@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Apple Mac Pro",
+        "text": "Very nice man, buy it and love it",
+        "img": "mac.jpg",
+        "description": "The new MacBook Pro has 6-core Intel Core processors for up to 70 percent faster compute speeds.¹ A brilliant and colorful Retina display featuring True Tone technology for a more true-to-life viewing experience. And the versatile Touch Bar for more ways to be productive. It's Apple's powerful notebook. Pushed even further.",
+        "price": 2000
+    },
+    {
+        "name": "Lenovo Thinkpad",
+        "text": "Very nice man, good for it`s price",
+        "img": "lenovo.jpg",
+        "description": "Get the job done with this Lenovo ThinkPad laptop. The portable, lightweight design contains a powerful Intel i5 processor and 8GB of DDR4 RAM for responsive performance that goes anywhere. This Lenovo ThinkPad laptop has a flexible hinge that lets it convert into four different configurations for maximum comfort and ease of use.",
+        "price": 1200
+    },
+    {
+        "name": "Dell",
+        "text": "Not so nice, but usable",
+        "img": "dell.jpg",
+        "description": "Complete projects and improve workflow with this Dell Inspiron laptop. The Intel Core i5 processor smoothly manages system tasks, and the 8GB of memory loads program functions without delays. Designed for multimedia enthusiasts and gamers, this black Dell Inspiron laptop has a touch display option and a 256GB solid-state drive for dependable, spacious file storage.",
+        "price": 800
+    },
+    {
+        "name": "HP",
+        "text": "Consider it when low budget",
+        "img": "hp.jpg",
+        "description": "Stay productive wherever you go with this HP 15-inch laptop. The notebook is perfect for traveling thanks to a sleek, portable design and up to 9 hours of battery life. An AMD A6 processor provides responsive performance, and its 1TB hard drive offers ample storage for your files. This HP 15-inch laptop features 4GB of system memory for reliable multitasking.",
+        "price": 300
+    },
+    {
+        "name": "Calculator",
+        "text": "Man, it`s a calculator, simple calculator",
+        "img": "calculator.jpg",
+        "description": "Get a reliable sun-powered tool with this Casio mini solar calculator. Its attractive silver metallic finish and large number display make it easy on your eyes, and the independent memory and built-in functions save time. This 8-digit Casio mini solar calculator has tax and currency options to help with accounting needs.",
+        "price": 15
+    }
+]

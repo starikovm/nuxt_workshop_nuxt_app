@@ -8,12 +8,16 @@ module.exports = {
     parser: 'babel-eslint'
   },
   extends: [
+    'eslint:recommended',
     'plugin:vue/recommended',
+    'plugin:vue/strongly-recommended',
   ],
   // required to lint *.vue files
   plugins: [
     'vue'
   ],
   // add your custom rules here
-  rules: {}
-}
+  rules: {
+    'vue/html-indent': 'off'
+  }
+};
