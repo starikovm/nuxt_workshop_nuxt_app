@@ -13,3 +13,6 @@ $ yarn install
 $ yarn run dev
 ```
 
+## TODO
+There are 7 TODOS that are located in app.\
+Complete them to finish app and learn how work with nuxt and vue!

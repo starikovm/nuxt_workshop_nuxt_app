@@ -18,6 +18,7 @@ module.exports = {
   ],
   // add your custom rules here
   rules: {
-    'vue/html-indent': 'off'
+    'vue/html-indent': 'off',
+    'no-unused-vars': 'off'
   }
 };

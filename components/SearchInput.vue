@@ -8,6 +8,12 @@
 </template>
 
 <script>
+    // import { mapAction } from 'vuex';
+    // @TODO 4 - update user budget on button click
+    // create a method, which will execute an action for user budget update in store (you can import action from store with mapAction)
+    // assign this method on button click
+    // user is putting his budget in input field
+
     export default {
         name: "SearchInput"
     }

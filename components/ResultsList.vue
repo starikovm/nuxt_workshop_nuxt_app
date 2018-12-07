@@ -10,6 +10,11 @@
 </template>
 
 <script>
+    import { mapActions } from 'vuex';
+
+    // @TODO 1 - get loaded products list from store
+    // Now we have empty offers in components data
+    // They should be loaded on component mount and mapped from Vuex store
     import ListOffer from './ListOffer.vue';
     export default {
         name: "ResultsList",
@@ -19,6 +24,9 @@
         data: () => ({
             offers: []
         }),
+        methods: {
+            ...mapActions(['loadList'])
+        },
     }
 </script>
 

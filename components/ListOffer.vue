@@ -23,6 +23,10 @@
 </template>
 
 <script>
+    // @TODO 3 - populate product offer with real data
+    // Expand List offer props.
+    // Real offers data you can find in `project_dir/list.json`
+    // Also use those props in template instead of dummy ones
     export default {
         name: "ListOffer",
         props: {
@@ -34,7 +38,7 @@
                 type: Number,
                 default: 0
             },
-        }
+        },
     }
 </script>
 
