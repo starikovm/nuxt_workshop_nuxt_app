@@ -7,7 +7,7 @@ const state = {
     wholeList: [],
     currentList: [],
     budget: 0,
-    currentItem: {}
+    currentItem: { name: 'Default Item' }
 };
 
 const mutations = {
